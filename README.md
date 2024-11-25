@@ -22,7 +22,7 @@ The dataset used in this application is included within the project repository a
 ## How to run the project
 Clone the repository
 ```bash
-https://github.com/saurabhznaikz/Movie-recommendation-system.git
+https://github.com/aniketsarapAI/movie_recommendation.git
 ```
 
 Create conda enviornment after creating repository
