@@ -13,10 +13,10 @@ This is achieved using predictive modeling and advanced heuristics, which proces
 
 
 
-About This Project
+## About This Project
 This is a Streamlit-based web application designed to recommend movies tailored to user preferences. By analyzing user input, the application suggests similar movies to enhance the discovery experience.
 
-Dataset
+## Dataset
 The dataset used in this application is included within the project repository and supports the generation of personalized movie recommendations. [dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 ## How to run the project
