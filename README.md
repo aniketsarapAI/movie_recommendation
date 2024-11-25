@@ -9,8 +9,7 @@ This is achieved using predictive modeling and advanced heuristics, which proces
 
 ## [Click this link to checkout the demo of this application](https://saurabhznaikz-movie-recommendation-system-app-lvevzf.streamlit.app/)
 
-![](https://user-images.githubusercontent.com/52929512/193522485-3ba011ba-bc37-47a5-82bb-4bc4a57a23b7.gif)
-
+![](https://github.com/aniketsarapAI/movie_recommendation/blob/main/demo.gif)
 
 
 ## About This Project
