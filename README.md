@@ -7,7 +7,7 @@ A recommendation system leverages Artificial Intelligence (AI) algorithms to ana
 This is achieved using predictive modeling and advanced heuristics, which process the available data to identify patterns and deliver tailored recommendations. Such AI-driven solutions enhance user experiences and drive engagement, making them indispensable in domains like entertainment, e-commerce, and content discovery.
 
 
-## [Click this link to checkout the demo of this application](https://saurabhznaikz-movie-recommendation-system-app-lvevzf.streamlit.app/)
+## Demo of Movie Recommendation  
 
 ![](https://github.com/aniketsarapAI/movie_recommendation/blob/main/demo.gif)
 
